@@ -1,0 +1,14 @@
+<ProjectModel Name="Animations" xmlns="clr-namespace:MaroonedSoftware.Oldschool.EditorModels;assembly=MaroonedSoftware.Oldschool">
+  <ProjectModel.Textures>
+    <TextureModel AllowRotation="True" Name="1" Padding="1" TrimEmptySpace="True">
+      <TextureModel.Frames>
+        <TextureFrameModel ImagePath="C:\Users\Alex\Documents\UnityProjects\GameJamProject\Assets\Animations\Images\1.png" Name="1.png" />
+        <TextureFrameModel ImagePath="C:\Users\Alex\Documents\UnityProjects\GameJamProject\Assets\Animations\Images\2.png" Name="2.png" />
+        <TextureFrameModel ImagePath="C:\Users\Alex\Documents\UnityProjects\GameJamProject\Assets\Animations\Images\3.png" Name="3.png" />
+        <TextureFrameModel ImagePath="C:\Users\Alex\Documents\UnityProjects\GameJamProject\Assets\Animations\Images\4.png" Name="4.png" />
+        <TextureFrameModel ImagePath="C:\Users\Alex\Documents\UnityProjects\GameJamProject\Assets\Animations\Images\5.png" Name="5.png" />
+        <TextureFrameModel ImagePath="C:\Users\Alex\Documents\UnityProjects\GameJamProject\Assets\Animations\Images\6.png" Name="6.png" />
+      </TextureModel.Frames>
+    </TextureModel>
+  </ProjectModel.Textures>
+</ProjectModel>
